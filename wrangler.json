@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "dobeha-builder",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "24284dde-99a4-47eb-b4f1-fe754a3c55ec",
+			"database_name": "e"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
